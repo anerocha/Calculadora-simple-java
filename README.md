@@ -1,33 +1,18 @@
-# Calculadora Simples em Java
+## Getting Started
 
-## Descrição
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Este é um projeto básico de uma **calculadora** desenvolvido para praticar conceitos iniciais de programação em **Java**. A calculadora realiza operações de soma, subtração, multiplicação e divisão entre dois números fornecidos pelo usuário via terminal.
+## Folder Structure
 
-## Objetivo
+The workspace contains two folders by default, where:
 
-Como sou iniciante, este projeto tem o intuito de consolidar conceitos como:
-- Criação de **classes e métodos**.
-- Utilização de **estruturas de controle** (`switch`, `while`).
-- Manipulação de entrada de dados com **Scanner**.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-## Estrutura
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-O projeto contém duas classes:
-1. **Numero.java**: Realiza as operações matemáticas.
-2. **TestaNumero.java**: Interage com o usuário, recebe a entrada e exibe o resultado.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Funcionalidades
+## Dependency Management
 
-- Operações: soma, subtração, multiplicação, divisão (com verificação de divisão por zero).
-- Interação via terminal.
-
-## Tecnologias
-
-- **Java**
-- **VS Code**
-
-## Observações
-
-Este é um projeto de prática como parte do meu aprendizado inicial em programação. Sugestões de melhorias são bem-vindas!
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
